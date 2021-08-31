@@ -18,6 +18,18 @@
 ## Installation
 
 No installation needed it runs from the command line.
+
+You may need to run 'npm i' in order to install the following packeges:
+
+- dotenv
+
+- express
+
+- mysql2
+
+- sequelize
+
+A database will need to be created first then seeded wih data.
 ## Usage
 
 Run MySQL to then source the schema.
