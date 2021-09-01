@@ -32,10 +32,11 @@ You may need to run 'npm i' in order to install the following packeges:
 A database will need to be created first then seeded wih data.
 ## Usage
 
-Run MySQL to then source the schema.
-Return to the command line and run the 'npm run seed'.
-Then you may run 'npm start' to open run the app.
-Then go to Insomnia and use it to run api requests.
+- Run MySQL to then source the schema.
+- Return to the command line and run the 'npm run seed'.
+- Then you may run 'npm start' to open run the app.
+- Then go to Insomnia and use it to run api requests.
+- Here is a vidoe demo of the process: <p><a href="https://drive.google.com/file/d/1UdeFSlblr8DOkLwLBUyPwufQRrrAFQXK/view" alt="demonstration of steps for app">Demonstration of steps for app</a></p>
 ## License
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
